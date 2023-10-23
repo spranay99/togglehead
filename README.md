@@ -1,5 +1,5 @@
-Project is deployed on https://toggleheadtest.netlify.app/ 
-Assignment Link - https://xd.adobe.com/view/f151a56e-d282-4f7d-b4cc-f33e838d7bec-a402/?fullscreen
+- [Project is deployed on https://toggleheadtest.netlify.app/]
+- [Assignment Link - https://xd.adobe.com/view/f151a56e-d282-4f7d-b4cc-f33e838d7bec-a402/?fullscreen]
 
 # React + Vite
 
